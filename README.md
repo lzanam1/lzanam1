@@ -1,15 +1,15 @@
-# Hi, I'm Daniil 👋
+# Hi, I'm Daniil 
 
 Student of **Quantitative Methods in Economics and Information Systems** at
 **SGH Warsaw School of Economics**, minor in **Econometrics** (BSc, 2024–2027).
 I like problems where rigorous math meets real data: pricing and hedging, tail risk,
 and machine learning that is benchmarked honestly against classical methods.
 
-🎯 Looking for internships in **risk, data science or ML**.
+ Looking for internships in **risk, data science or ML**.
 
 ---
 
-### 🎓 Education
+###  Education
 **SGH Warsaw School of Economics** — BSc Quantitative Methods in Economics & Information Systems, minor in Econometrics (2024–2027)
 - Major GPA **4.6 / 5.0**
 - Top of the cohort in **Linear Algebra, Probability Theory and Mathematical Analysis**
@@ -27,7 +27,7 @@ trained end-to-end through a Monte Carlo simulator to minimise **CVaR95**.
   classical no-trade band, robust across 5 training seeds
 - Every building block validated against theory (Black–Scholes pricing, 1/√N hedging error,
   recovery of the BS delta without costs)
-- 📄 [Technical report (PDF)](https://github.com/lzanam1/neural_option_hedging/blob/main/docs/report.pdf)
+-  [Technical report (PDF)](https://github.com/lzanam1/neural_option_hedging/blob/main/docs/report.pdf)
 
 #### [Bankruptcy Prediction](https://github.com/lzanam1/bankruptcy-prediction) · Python, XGBoost
 Predicting bankruptcy of Polish companies from financial ratios.
@@ -37,7 +37,7 @@ Predicting bankruptcy of Polish companies from financial ratios.
 
 ---
 
-### 🛠️ Skills
+### Skills
 - **Math & statistics:** probability, linear algebra, real analysis, optimisation, econometrics
 - **Quant finance:** option pricing, delta hedging, VaR / Expected Shortfall, Monte Carlo
 - **Machine learning:** PyTorch, scikit-learn, XGBoost, SHAP, Optuna
