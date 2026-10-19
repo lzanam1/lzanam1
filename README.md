@@ -11,10 +11,6 @@ and machine learning that is benchmarked honestly against classical methods.
 
 ###  Education
 **SGH Warsaw School of Economics** — BSc Quantitative Methods in Economics & Information Systems, minor in Econometrics (2024–2027)
-- Major GPA **4.6 / 5.0**
-- Top of the cohort in **Linear Algebra, Probability Theory and Mathematical Analysis**
-- Coursework: real analysis, probability, linear algebra, differential equations,
-  optimisation methods, econometrics
 
 ---
 
