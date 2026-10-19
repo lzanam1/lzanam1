@@ -10,7 +10,7 @@ and machine learning that is benchmarked honestly against classical methods.
 ---
 
 ###  Education
-**SGH Warsaw School of Economics** — BSc Quantitative Methods in Economics & Information Systems, minor in Econometrics (2024–2027)
+**SGH Warsaw School of Economics** (BSc Quantitative Methods in Economics & Information Systems, minor in Econometrics (2024–2027))
 
 ---
 
