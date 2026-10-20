@@ -5,7 +5,7 @@ Student of **Quantitative Methods in Economics and Information Systems** at
 I like problems where rigorous math meets real data: pricing and hedging, tail risk,
 and machine learning that is benchmarked honestly against classical methods.
 
- Looking for internships in **risk, data science or ML**.
+ Looking for internships in **analytics, risk, data science or ML**.
 
 ---
 
